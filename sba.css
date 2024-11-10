@@ -68,9 +68,9 @@ button:hover {
   background-color: #c0392b;
 }
 
-/*Change button color when added to favorites */
+
 button.added {
-  background-color: gray;
+  background-color: blue;
 }
 
 footer {

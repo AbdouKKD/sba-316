@@ -1,1 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Restaurant Finder</title>
+    <link rel="stylesheet" href="sba.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Restaurant Finder</h1>
+    </header>
 
+    <section id="restaurant-search">
+      <form id="location-form">
+        <label for="location">Enter Location (e.g., New York): </label>
+        <input type="text" id="location" required />
+        <button type="button" id="find-restaurants">Find Restaurants</button>
+      </form>
+
+      <div id="restaurant-list"></div>
+    </section>
+
+    <section id="favorites">
+      <h2>Favorites</h2>
+      <ul id="favorites-list"></ul>
+    </section>
+
+    <
+
+    <template id="restaurant-template">
+      <div class="restaurant-item">
+        <h3 class="restaurant-name"></h3>
+        <p class="restaurant-cuisine"></p>
+        <button class="add-to-favorites">Add to Favorites</button>
+      </div>
+    </template>
+
+    <script src="sba.js"></script>
+  </body>
+</html>

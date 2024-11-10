@@ -5,9 +5,13 @@ const favoritesList = document.querySelector("#favorites-list");
 
 const restaurantData = [
   { name: "Joe's Pizza", location: "New York", cuisine: "Italian" },
-  { name: "Sushi World", location: "New York", cuisine: "Japanese" },
-  { name: "Taco Town", location: "New York", cuisine: "Mexican" },
-  { name: "Burger King", location: "New York", cuisine: "American" },
+  { name: "Sushi World", location: "Los Angeles", cuisine: "Japanese" },
+  { name: "Taco Town", location: "Los Angeles", cuisine: "Mexican" },
+  { name: "Taste of Punjab", location: "Philadelphia", cuisine: "Pakistani" },
+  {name: "Old Havana", location: "Miami", cuisine: "Cuban"},
+  {name: "African Paradise", location: "New York", cuisine: "Ivorian"},
+  {name: "Tom's BBQ", location: "Dallas", cuisine: "American"}
+    
 ];
 
 // Get the template for restaurant items

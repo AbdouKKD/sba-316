@@ -1,7 +1,9 @@
 Restaurant Finder Project
+
 About the Project:
 
 This is a fun website where you can search for restaurants in New York! You can find different types of restaurants, like pizza places, sushi bars, and burger joints. You can also save your favorite restaurants to a special list.
+
 What Can You Do on the Website?
 
    Search for Restaurants:

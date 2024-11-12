@@ -4,8 +4,8 @@ const restaurantList = document.querySelector("#restaurant-list");
 const favoritesList = document.querySelector("#favorites-list");
 
 const restaurantData = [
-  { name: "Joe's Pizza", location: "New York", cuisine: "Italian" },
-  { name: "Sushi World", location: "Los Angeles", cuisine: "Japanese" },
+  { name: "Joe's Pizza", location: "Chicago", cuisine: "Italian" },
+  { name: "Sushi World", location: "Atlanta", cuisine: "Japanese" },
   { name: "Taco Town", location: "Los Angeles", cuisine: "Mexican" },
   { name: "Taste of Punjab", location: "Philadelphia", cuisine: "Pakistani" },
   {name: "Old Havana", location: "Miami", cuisine: "Cuban"},

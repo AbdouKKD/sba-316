@@ -2,7 +2,7 @@ Restaurant Finder Project
 
 About the Project:
 
-This is a fun website where you can search for restaurants in New York! You can find different types of restaurants, like pizza places, sushi bars, and burger joints. You can also save your favorite restaurants to a special list.
+This is a fun website where you can search for restaurants in America! You can find different types of restaurants, like pizza places, sushi bars, and burger joints. You can also save your favorite restaurants to a special list.
 
 What Can You Do on the Website?
 
@@ -28,3 +28,15 @@ Click the Button:
 
   See Your Favorites:
     Your saved restaurants will appear under the "Favorites" section on the page.
+
+ Example Restaurants:
+
+Here are some examples of restaurants you can find using the search feature:
+
+Joe's Pizza – Location: Chicago, Cuisine: Italian
+Sushi World – Location: Atlanta, Cuisine: Japanese
+Taco Town – Location: Los Angeles, Cuisine: Mexican
+Taste of Punjab – Location: Philadelphia, Cuisine: Pakistani
+Old Havana – Location: Miami, Cuisine: Cuban
+African Paradise – Location: New York, Cuisine: Ivorian
+Tom's BBQ – Location: Dallas, Cuisine: American
